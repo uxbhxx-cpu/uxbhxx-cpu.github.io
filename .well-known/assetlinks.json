@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.uxbhxxcpu.sevgi",
+        "sha256_cert_fingerprints": ["72:00:85:04:3D:B0:94:7C:F7:BC:2A:13:5F:ED:4D:EE:01:7D:29:D8:52:E8:05:31:B3:E6:7B:30:3F:E1:0C:94"]
+      }
+    }]
